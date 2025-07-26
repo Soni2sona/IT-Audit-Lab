@@ -17,7 +17,7 @@ I created this GitHub repository to:
 
 ## 🧪 Projects Coming Soon
 I'll be adding step-by-step audit projects, including:
-- ✅ Access Control Testing (Windows/Linux)
+- ✅ Access Control Testing
 - ✅ Backup & Recovery Audit Walkthrough
 - ✅ Log Monitoring with Splunk or Graylog
 - ✅ Vulnerability Scan & Risk Analysis using Nessus/OpenVAS
